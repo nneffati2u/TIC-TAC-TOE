@@ -1,0 +1,1 @@
+if (numLigne === Number("") || numColonne === Number("")) continuer();
